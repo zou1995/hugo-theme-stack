@@ -20,14 +20,14 @@ params:
 
     sidebar:
         emoji:
-        subtitle:
+        subtitle: Seeking For Alpha
         avatar:
             enabled: true
             local: true
             src: img/avatar.png
 
     article:
-        math: false
+        math: true
         toc: true
         readingTime: true
         license:
